@@ -3,6 +3,16 @@
 
 A simple Spotify clone built from scratch to practice front-end development.
 
+# ScreenShot
+
+![./assets/Screenshot.jpg]
+
+### Links
+
+- Solution URL: [https://github.com/Ak-akansha26/Spotify_Clone.git]
+- Live Site URL: [https://ak-akansha26.github.io/Spotify_Clone/]
+
+
 ## Key Takeaways
 I learned how to customize and style an HTML audio progress bar using CSS pseudo-elements:
 
