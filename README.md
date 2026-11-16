@@ -1,7 +1,8 @@
 
-# Spotify Clone
+#  VibeTune — Music Streaming Web App
 
-A simple Spotify clone built from scratch to practice front-end development.
+"A responsive music streaming web player built with HTML, CSS, and JavaScript."
+
 
 # ScreenShot
 
@@ -9,8 +10,8 @@ A simple Spotify clone built from scratch to practice front-end development.
 
 ### Links
 
-- Solution URL: [https://github.com/Ak-akansha26/Spotify_Clone.git]
-- Live Site URL: [https://ak-akansha26.github.io/Spotify_Clone/]
+- Solution URL: [https://github.com/Ak-akansha26/VibeTune.git]
+- Live Site URL: [https://ak-akansha26.github.io/VibeTune/]
 
 
 ## Key Takeaways
@@ -40,9 +41,6 @@ I learned how to customize and style an HTML audio progress bar using CSS pseudo
 ## Challenges Faced
 * **Finding Exact Icons:** It was difficult to find icons that matched the original Spotify interface.
 * **Navbar Overlapping:** I ran into layout issues where elements in the main navigation bar overlapped.
-
-## Note on Using AI
-I used Google Gemini occasionally during this project, though its suggestions did not always work right away. This taught me that AI is only helpful when you already understand the basics of coding, so I mostly relied on my own skills to build this.
 
 ## Future Improvements
 * Make the design fully responsive for mobile screens.
