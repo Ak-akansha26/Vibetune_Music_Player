@@ -6,7 +6,7 @@
 
 # ScreenShot
 
-![./assets/VibeTune Screenshot.jpg]
+![VibeTune Screenshot](./assets/VibeTune%20Screenshot.jpg)
 
 ### Links
 
